@@ -2,6 +2,6 @@
 | Útlenska | Íslenska |
 | ---------- | ----------:|
 | Clustering | Dilkadráttur 
-| Dimension reduction | Víddakylfa |
+| Dimensionality reduction | Víddakylfa |
 | Random forest | Slembiskógur |
 | Big data | Ginnungagögn |  
