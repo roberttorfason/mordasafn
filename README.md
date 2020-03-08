@@ -3,5 +3,5 @@
 | ---------- | ----------:|
 | Clustering | Dilkadráttur 
 | Dimension reduction | Víddakylfa |
-| Random forest | Slembiskógu |
+| Random forest | Slembiskógur |
 | Big data | Ginnungagögn |  
