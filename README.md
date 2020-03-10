@@ -1,5 +1,10 @@
 # Íslenskt machine learning orðasafn
-
-Clustering - Að draga í dilka, dilkadráttur  
-Principal Component Analysis (PCA) - Víddakylfa  
-Random forest - Slembiskógur  
+| Útlenska | Íslenska |
+| ---------- | ----------:|
+| Clustering | Dilkadráttur 
+| Dimensionality reduction | Víddakylfa |
+| Random forest | Slembiskógur |
+| Big data | Ginnungagögn |  
+| Regression | Aðhvarfsgreining |
+| Training data | Þjálfunargögn |    
+| Gradient Descent | Aðferð mesta bratta |  
