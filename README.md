@@ -7,5 +7,5 @@
 | Big data | Ginnungagögn |  
 | Regression | Aðhvarfsgreining |
 | Training data | Þjálfunargögn |    
-| Gradient Descent | Rassaþota n| Stigulsbrun |
+| Gradient Descent | Rassaþota | Stigulsbrun |
 | Nesterov's Accelerated Gradient Descent | Rassaþot með Hlussu | Þungt Stigulsbrun |
