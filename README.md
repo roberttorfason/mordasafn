@@ -9,3 +9,4 @@
 | Training data | Þjálfunargögn |    
 | Gradient Descent | Rassaþota | Stigulsbrun |
 | Nesterov's Accelerated Gradient Descent | Rassaþota með hlussu | Þungt stigulsbrun |
+| Max Pooling | Djúpa Laugin | 
